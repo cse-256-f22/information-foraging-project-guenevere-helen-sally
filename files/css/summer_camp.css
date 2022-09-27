@@ -4,10 +4,27 @@
 }
 
 td {
-    width: 30%;
+    width: 50%;
+    border:1px solid black;
 }
 
 ul {
-    width: 30%;
+    /* width: 50%; */
     position: relative;
+    margin-left: 30px;
+    
+}
+
+th {
+    border:1px solid black;
+  }
+
+table {
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    font-size: 20px;
 }
