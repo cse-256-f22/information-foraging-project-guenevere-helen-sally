@@ -7,6 +7,14 @@
     z-index: 100;
 }
 
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+    margin-top : 40px;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
 span {
     box-sizing: border-box;
 }
